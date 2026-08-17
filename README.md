@@ -14,7 +14,7 @@ Just run 'vroom -iwad path/to/your/iwad' to start playing!
 
 ## Changelog
 - Added a Secret Counter when finding a secret.
-
+- Fixed various compiler warnings.
 
 ## Contributing
 If you would like to contribute, make a pull request! I'll most likely merge if it brings something to the table.
